@@ -1,0 +1,13 @@
+datavis.cafe:
+  - category:
+    name: Network Visualization
+    tools:
+          - tool:
+            tool_name: CRviz
+            tool_url: 'https://cyberreboot.github.io/CRviz/'
+            tool_screenshot_url: 'https://cdn-images-1.medium.com/max/2600/1*ayqvpmeOWBBaALqHGMcOCQ.png'
+            tool_description (ideally ±25 words / ±175 chars): 'CRviz is a browser-based visualization tool that uses JSON and an interactive enclosure diagram to visualize networks, utilizing circle-packing methods to show 10,000+ nodes.'
+            tool_github_repo_url (or 'None'): 'https://github.com/CyberReboot/CRviz'
+            tool_programming_language (e.g. 'Python' or 'Zero Code'): 'JavaScript'
+            tool_license_type (e.g. 'MIT'): 'Apache-2.0'
+            tool_cost (e.g. 'paid' or 'freemium' or 'free'): 'free' 
