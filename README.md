@@ -1,15 +1,23 @@
-# [dataviz.cafe](https://dataviz.cafe/)
+
+# :chart_with_upwards_trend: :coffee: [dataviz.cafe](https://dataviz.cafe/) README
+
+<img src="https://res.cloudinary.com/dzu5qhcon/image/upload/v1567618663/site_assets/Dataviz.cafe_Screencast.png" alt="dataviz.cafe screencast" />
 
 ```
-A free public resource curated by IQT Labs for anyone interested in data visualization software.
+A free public resource curated by IQT Labs for anyone interested in open source data visualization software
 ```
+
 ## Background
 
-Dataviz Café is a free public resource curated by [IQT Labs](https://www.iqt.org/labs/) for anyone interested in data visualization software. With over 1,000 libraries/frameworks, it is designed to help creative coders, data scientists, and visualization designers do their jobs more effectively. We invite you to explore the collection, discover new tools, and help update/maintain listings [via GitHub pull request](https://github.com/dataviz-cafe/contribute/pulls).
+<img src="https://res.cloudinary.com/dzu5qhcon/image/upload/f_auto,q_auto:eco/v1567608353/logo/dataviz_cafe_logo_block.png" alt="dataviz.cafe logo" />
 
-## New Entries
+With over 700 libraries/frameworks catalogued in this latest release, [dataviz.cafe](https://dataviz.cafe/) was built to help creative coders, data scientists, and visualization designers to do their jobs more effectively. Our goal is to help practitioners find high quality, low-cost visualization resources to support a wide variety of use-cases.
 
-If you think a certain visualization tool should be included, please check [dataviz.cafe](https://dataviz.cafe/) first and then open a pull request to add it to [newentry.yml](new_entry.yml).
+From general-purpose frameworks to specialized libraries for visualizing brain structures, satellite orbits, and electrical grids (to name just a few), each tool in the collection is summarized, illustrated with a screenshot, and systematically tagged by data type, programming language, and content domain,  if applicable. We invite you to explore the collection, discover new tools, and help update/maintain listings [via GitHub pull request](https://github.com/dataviz-cafe/contribute/pulls).
+
+## Submitting new entries via PR in YAML
+
+We're always looking to keep the collection current. If you believe a certain open source visualization tool should be included, please check [https://dataviz.cafe](https://dataviz.cafe/) first and then open a pull request to add it to [newentry.yml](new_entry.yml).
 
 ```
 datavis.cafe:
