@@ -1,15 +1,11 @@
 
-# :chart_with_upwards_trend: :coffee: [dataviz.cafe](https://dataviz.cafe/) README
+# :chart_with_upwards_trend: :coffee: Background on [dataviz.cafe](https://dataviz.cafe/) 
 
-<img src="https://res.cloudinary.com/dzu5qhcon/image/upload/v1567618663/site_assets/Dataviz.cafe_Screencast.png" alt="dataviz.cafe screencast" />
+<img src="https://res.cloudinary.com/dzu5qhcon/image/upload/f_auto,q_auto:eco/v1567608353/logo/dataviz_cafe_logo_block.png" alt="dataviz.cafe logo" />
 
 ```
 A free public resource curated by IQT Labs for anyone interested in open source data visualization software
 ```
-
-## Background
-
-<img src="https://res.cloudinary.com/dzu5qhcon/image/upload/f_auto,q_auto:eco/v1567608353/logo/dataviz_cafe_logo_block.png" alt="dataviz.cafe logo" />
 
 With over 700 libraries/frameworks catalogued in this latest release, [dataviz.cafe](https://dataviz.cafe/) was built to help creative coders, data scientists, and visualization designers to do their jobs more effectively. Our goal is to help practitioners find high quality, low-cost visualization resources to support a wide variety of use-cases.
 
