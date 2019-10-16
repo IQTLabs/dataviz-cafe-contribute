@@ -1,4 +1,5 @@
 dataviz.cafe tool entry
+
 dataType: 'Network' [pick one of five: 'Geospatial', 'Network', 'Quantitative', 'Text', 'Miscellaneous']
 toolName: 'CRviz'
 toolURL: 'https://cyberreboot.github.io/CRviz'
