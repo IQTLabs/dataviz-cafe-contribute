@@ -1,11 +1,11 @@
 dataviz.cafe tool entry
 
-dataType: 'Network' [pick one of five: 'Geospatial', 'Network', 'Quantitative', 'Text', 'Miscellaneous']
-toolName: 'CRviz'
-toolURL: 'https://cyberreboot.github.io/CRviz'
-toolSourceCodeRepo: 'https://github.com/CyberReboot/CRviz' [or 'None']
-toolScreenshot: 'https://cdn-images-1.medium.com/max/2600/1*ayqvpmeOWBBaALqHGMcOCQ.png'
-toolDescription: 'CRviz is a browser-based visualization tool that uses JSON and an interactive enclosure diagram to visualize networks, utilizing circle-packing methods to show 10,000+ nodes.' [ideally ±25 words or ±175 chars.]
+dataType: 'Quantitative' [pick one of five: 'Geospatial', 'Network', 'Quantitative', 'Text', 'Miscellaneous']
+toolName: 'D3 Foresight'
+toolURL: 'https://github.com/reichlab/d3-foresight'
+toolSourceCodeRepo: 'https://github.com/reichlab/d3-foresight' [or 'None']
+toolScreenshot: 'http://reichlab.io/d3-foresight/timechart.png'
+toolDescription: 'D3 Foresight is a d3 based library for visualizing time series forecasts interactively.' [ideally ±25 words or ±175 chars.]
 toolProgrammingLanguage: 'JavaScript' [or 'Python', 'R', etc.]
-toolSPDXLicenseTerms: 'Apache-2.0' [or 'MIT', etc.]
+toolSPDXLicenseTerms: 'MIT' [or 'MIT', etc.]
 toolCost: 'Free' [or 'Paid' or 'Freemium']
